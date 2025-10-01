@@ -1,1 +1,1 @@
-Sitemap: https://jcoloo.github.io/jcoloo/sitemap.xml
+Sitemap: https://jcoloo.github.io/sitemap.xml
